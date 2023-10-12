@@ -1,0 +1,3 @@
+D:/GitHub/Sim_Fisicas_AJPJ/HolaPoligonos/cmake-build-debug/CMakeFiles/HolaPoligonos.dir
+D:/GitHub/Sim_Fisicas_AJPJ/HolaPoligonos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/Sim_Fisicas_AJPJ/HolaPoligonos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
