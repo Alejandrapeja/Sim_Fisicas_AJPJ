@@ -271,13 +271,6 @@ int main() {
         circ.getBody()->ApplyForceToCenter(b2Vec2(0.f,0.2f), true);
         push.getBody()->ApplyForceToCenter(b2Vec2(0.1f,0.f), true);
         while (window.pollEvent(event)) {
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::W)) {
-                circ.getBody()->ApplyForceToCenter(b2Vec2(0.f,0.2f), true);
-            }
-
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::S)) {
-                circ.getBody()->ApplyForceToCenter(b2Vec2(0.0f, 0.1f), true);
-            }
 
             if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space)) {
                 circ.resetPosition();
@@ -286,10 +279,6 @@ int main() {
                 cube3.resetPosition();
                 dis1.resetPosition();
                 dis2.resetPosition();
-            }
-
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::R)) {
-                circ.stop();
             }
 
             // The Z key event to close the window

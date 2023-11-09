@@ -1,0 +1,11 @@
+# ninja log v5
+2	1213	7211248713482711	CMakeFiles/HolaGoldberg.dir/main.cpp.obj	3fda4249860d81fc
+1214	2255	7211248715924626	HolaGoldberg.exe	5788585e1defa08a
+1	1183	7211249202857063	CMakeFiles/HolaGoldberg.dir/main.cpp.obj	3fda4249860d81fc
+1183	2299	7211249205173961	HolaGoldberg.exe	5788585e1defa08a
+3	3785	7211597126502539	CMakeFiles/HolaGoldberg.dir/main.cpp.obj	3fda4249860d81fc
+3786	6826	7211597141774742	HolaGoldberg.exe	5788585e1defa08a
+2	1651	7211674020592218	CMakeFiles/HolaGoldberg.dir/main.cpp.obj	3fda4249860d81fc
+1652	3647	7211674029031267	HolaGoldberg.exe	5788585e1defa08a
+3	3478	7211712183171104	CMakeFiles/HolaGoldberg.dir/main.cpp.obj	3fda4249860d81fc
+3479	7261	7211712198928134	HolaGoldberg.exe	5788585e1defa08a

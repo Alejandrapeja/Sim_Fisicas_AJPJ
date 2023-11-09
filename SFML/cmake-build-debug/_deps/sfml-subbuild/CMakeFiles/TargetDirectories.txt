@@ -1,0 +1,3 @@
+D:/GitHub/Sim_Fisicas_AJPJ/SFML/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+D:/GitHub/Sim_Fisicas_AJPJ/SFML/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+D:/GitHub/Sim_Fisicas_AJPJ/SFML/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
